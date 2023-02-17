@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI NFT Generator
 
 ## Technology Stack & Tools
@@ -41,3 +42,7 @@ In a separate terminal execute:
 
 ### 7. Start frontend
 `$ npm run start`
+=======
+# AI_NFT_Generator
+Creating image by AI, and mint it
+>>>>>>> a207b3152e6d089ea161455ce1b02b9b4c448981
